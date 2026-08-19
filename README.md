@@ -1,3 +1,3 @@
 ## 📊 Dashboard
 
-![Visão Executiva](imagens/visao-executiva.png)
+![Visão Executiva](Imagens%20do%20projeto/VISÃO%20EXECUTIVA.png)
